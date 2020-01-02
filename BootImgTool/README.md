@@ -33,7 +33,3 @@ bin/repack-bootimg.sh kernel ramdisk-dir out-file
 ```
 如：
 bin/repack-bootimg.sh tmp/boot.img-kernel.gz tmp/boot.img-ramdisk boot.img
-
-
-# Article
-https://www.jianshu.com/p/aaa2fd8bd2b5
