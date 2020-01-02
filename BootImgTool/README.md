@@ -20,12 +20,12 @@ Add some usefull script for convenience
 ```
 ./bin/unpack-bootimg.sh path/of/boot.img
 ```
-
+```
  boot.img
  boot.img-kernel.gz //替换kernel时，覆盖此文件
  boot.img-ramdisk //进入此目录修改配置
  boot.img-ramdisk.cpio.gz
-
+```
 
 3. repack 暂未处理cmdline
 ```
